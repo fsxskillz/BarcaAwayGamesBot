@@ -1,4 +1,12 @@
 {
   "matches": [
+    {
+      "id": "https://taquilla.fcbarcelona.cat/webapp/en/desplacaments/213/",
+      "name": "VALENCIA- FC BARCELONA",
+      "date": null,
+      "closingForm": "25 August, 11.59 PM",
+      "ticketUrl": "https://taquilla.fcbarcelona.cat/webapp/en/desplacaments/213/",
+      "firstSeenAt": "2026-08-30T10:49:18.8158745+00:00"
+    }
   ]
 }
