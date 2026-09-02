@@ -7,6 +7,14 @@
       "closingForm": "25 August, 11.59 PM",
       "ticketUrl": "https://taquilla.fcbarcelona.cat/webapp/en/desplacaments/213/",
       "firstSeenAt": "2026-08-30T10:49:18.8158745+00:00"
+    },
+    {
+      "id": "https://taquilla.fcbarcelona.cat/webapp/en/desplacaments/214/",
+      "name": "LEVANTE - FC BARCELONA",
+      "date": null,
+      "closingForm": "4 September, 10.00 AM",
+      "ticketUrl": "https://taquilla.fcbarcelona.cat/webapp/en/desplacaments/214/",
+      "firstSeenAt": "2026-09-02T12:06:37.7409749+00:00"
     }
   ]
 }
