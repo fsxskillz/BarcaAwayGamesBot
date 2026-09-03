@@ -15,6 +15,14 @@
       "closingForm": "4 September, 10.00 AM",
       "ticketUrl": "https://taquilla.fcbarcelona.cat/webapp/en/desplacaments/214/",
       "firstSeenAt": "2026-09-02T12:06:37.7409749+00:00"
+    },
+    {
+      "id": "https://taquilla.fcbarcelona.cat/webapp/en/desplacaments/215/",
+      "name": "SEVILLA FC - FC BARCELONA",
+      "date": null,
+      "closingForm": "7 September, 11.59 PM",
+      "ticketUrl": "https://taquilla.fcbarcelona.cat/webapp/en/desplacaments/215/",
+      "firstSeenAt": "2026-09-03T12:05:53.1704123+00:00"
     }
   ]
 }
